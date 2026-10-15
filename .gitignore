@@ -1,0 +1,22 @@
+# Environment and credentials
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.cert
+*.pfx
+*id_rsa*
+secrets.json
+credentials.json
+
+# Operating System and Editor files
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Office temporary lock files
+~$*.xlsx
+*.tmp
