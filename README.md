@@ -1,4 +1,4 @@
-# Airbus ISO/IEC 27001:2022 — Public-Source GRC Review
+# Airbus ISO/IEC 27001:2022 - Public-Source GRC Review
 
 **Company studied:** Airbus SE (public corporate disclosures)  
 **Separate certification reference:** Airbus Protect (do not generalize its scope to all Airbus SE operations)  
